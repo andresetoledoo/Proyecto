@@ -6,9 +6,9 @@ Connection bd:
 SQL server
 
 Funcionalities:
-CRUD users
-CRUD pets
-Login
+CRUD users,
+CRUD pets,
+and Login
 
 Others:
 I was programing with a parner.
